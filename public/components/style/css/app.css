@@ -1,0 +1,57 @@
+body, html
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: rgb(39, 37, 37);
+}
+.container
+{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.a
+{
+    background: url(/public/src/videos/lab-setup-tv.gif);
+}
+.b
+{
+    background: url(/public/src/videos/lab-setup.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 72%;
+}
+.c
+{
+    background: url(/public/src/videos/city-light.gif);
+    margin-top: 143%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0, 20%;
+}
+.d
+{
+    background: url(/public/src/videos/city-trem.gif);
+    margin-top: 200%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0, 20%;
+}
+.e
+{
+    background: url(/public/src/videos/human-sing.jpg);
+    margin-top: 270%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0, 20%;
+}
+.f
+{
+    background: url(/public/src/videos/lab-setup-purple.gif);
+    margin-top: 320%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0, 20%;
+}
